@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DisplayDriverUninstaller Version="18.0.4.1">
+	<LogEntries>
+		<Event>
+			<Time>12/9/2021 11:07:25 AM</Time>
+			<Message>The following paths are detected.</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Key>[Found] AppExeFile</Key>
+					<Value>C:\Users\hi\Downloads\Tracko Opti pack\DDU\Display Driver Uninstaller.exe</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] AppBase</Key>
+					<Value>C:\Users\hi\Downloads\Tracko Opti pack\DDU\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Settings</Key>
+					<Value>C:\Users\hi\Downloads\Tracko Opti pack\DDU\Settings\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Logs</Key>
+					<Value>C:\Users\hi\Downloads\Tracko Opti pack\DDU\DDU Logs\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] Language</Key>
+					<Value>C:\Users\hi\Downloads\Tracko Opti pack\DDU\Settings\Languages\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] ProgramFiles</Key>
+					<Value>C:\Program Files\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] ProgramFilesx86</Key>
+					<Value>C:\Program Files (x86)\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] Roaming</Key>
+					<Value>C:\ProgramData\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Not found] AppBaseRoaming</Key>
+					<Value>C:\ProgramData\DisplayDriverUninstaller\</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>[Found] SystemDrive</Key>
+					<Value>C:\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] WinDir</Key>
+					<Value>C:\Windows\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] UserPath</Key>
+					<Value>C:\Users\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] System32</Key>
+					<Value>C:\Windows\system32\</Value>
+				</KvP>
+				<KvP>
+					<Key>[Found] SysWOW64</Key>
+					<Value>C:\Windows\SysWOW64\</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2021 11:07:32 AM</Time>
+			<Message>System Information</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>DDU Version</Key>
+					<Value>18.0.4.1</Value>
+				</KvP>
+				<KvP>
+					<Key>OS</Key>
+					<Value>Windows 10</Value>
+				</KvP>
+				<KvP>
+					<Key>Win 10 1809+ ?</Key>
+					<Value>True</Value>
+				</KvP>
+				<KvP>
+					<Key>Architecture</Key>
+					<Value>x64</Value>
+				</KvP>
+				<KvP>
+					<Key>UserRights</Key>
+					<Value>Admin</Value>
+				</KvP>
+				<KvP>
+					<Key>Arguments</Key>
+					<Value>&lt;empty&gt;</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Key>GPU #0000</Key>
+					<Value>NVIDIA GeForce RTX 2070 SUPER</Value>
+				</KvP>
+				<KvP>
+					<Key>GPU DeviceID</Key>
+					<Value>pci\ven_10de&amp;dev_1e84</Value>
+				</KvP>
+				<KvP>
+					<Key>Vbios</Key>
+					<Value>Version90 04.86.00.bb</Value>
+				</KvP>
+				<KvP>
+					<Key>Detected Driver(s) Version(s)</Key>
+					<Value>27.21.14.6192</Value>
+				</KvP>
+				<KvP>
+					<Key>INF name</Key>
+					<Value>oem12.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>INF section</Key>
+					<Value>Section002</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Warning>
+			<Time>12/9/2021 11:07:32 AM</Time>
+			<Message>We are not in Safe Mode</Message>
+		</Warning>
+		<Event>
+			<Time>12/9/2021 11:07:32 AM</Time>
+			<Message>The following third-party driver packages are installed on this computer</Message>
+			<Values Separator=" = ">
+				<KvP>
+					<Value>C:\Windows\inf\oem0.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Printer</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem1.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Microsoft</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Printer</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem10.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem11.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Realtek</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Net</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem12.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>NVIDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem13.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Nefarius Software Solutions e.U.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem14.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>VB-Audio Software</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem15.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>VB-Audio Software</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem16.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Logitech</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem17.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Logitech</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem18.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Logitech G series</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>LGHUBWinUSB</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem19.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Logitech</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem2.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SecurityDevices</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem20.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem21.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem22.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem23.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>SecurityDevices</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem24.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem25.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Apple, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USBDevice</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem3.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem4.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc.</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem5.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>NVIDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>Display</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem6.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>NVIDIA Corporation</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>MEDIA</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem7.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>NVIDIA</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>USB</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem8.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Advanced Micro Devices, Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>System</Value>
+				</KvP>
+				<KvP />
+				<KvP>
+					<Value>C:\Windows\inf\oem9.inf</Value>
+				</KvP>
+				<KvP>
+					<Key>Provider</Key>
+					<Value>Razer Inc</Value>
+				</KvP>
+				<KvP>
+					<Key>Class</Key>
+					<Value>HIDClass</Value>
+				</KvP>
+				<KvP />
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2021 11:07:40 AM</Time>
+			<Message>Trying to impersonate the SYSTEM account... SUCCESS !</Message>
+			<Values Separator=" : ">
+				<KvP>
+					<Key>Number of process to check</Key>
+					<Value>69</Value>
+				</KvP>
+				<KvP>
+					<Key>csrss</Key>
+					<Value>Access is denied</Value>
+				</KvP>
+				<KvP>
+					<Key>Display Driver Uninstaller</Key>
+					<Value>Skipping : S-1-5-21-2809410526-2549282998-1501065959-1001</Value>
+				</KvP>
+				<KvP>
+					<Key>voicemeeterpro</Key>
+					<Value>Skipping : S-1-5-21-2809410526-2549282998-1501065959-1001</Value>
+				</KvP>
+				<KvP>
+					<Key>wininit</Key>
+					<Value>Access is denied</Value>
+				</KvP>
+				<KvP>
+					<Key>GoogleCrashHandler64</Key>
+					<Value>S-1-5-18</Value>
+				</KvP>
+				<KvP>
+					<Key>GoogleCrashHandler64</Key>
+					<Value>SYSTEM account impersonalisation SUCCESS</Value>
+				</KvP>
+			</Values>
+		</Event>
+		<Event>
+			<Time>12/9/2021 11:07:40 AM</Time>
+			<Message>Reverting the Impersonalisation is successful !</Message>
+		</Event>
+		<Event>
+			<Time>12/9/2021 11:07:41 AM</Time>
+			<Message>&gt;&gt; Successfully saved log to file!</Message>
+		</Event>
+	</LogEntries>
+</DisplayDriverUninstaller>
